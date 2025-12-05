@@ -3,3 +3,10 @@ description: "Token-gated coding community, access passes, and credentials."
 theme: minima
 url: "https://vibecoding-labs.github.io"
 baseurl: "/home"
+
+header_pages:
+  - index.md
+  - token.md
+  - how-to-join.md
+  - resources.md
+  - legal.md
