@@ -2,6 +2,8 @@
 
 Welcome! We're excited to have you join the Vibe Coding community. Follow these steps to become part of our vibrant ecosystem of programmers and developers on Solana.
 
+The first and easiest way to become a member is to [Buy VIBE token](https://pump.fun/coin/FWAUjiMZv4Hh6CR8m8m6QGb1k5hkhxWHHZ2ewXVTpump)
+
 ## 🚀 Quick Start Guide
 
 ### Step 1: Set Up Your Wallet
@@ -24,16 +26,16 @@ To participate in the Vibe Coding community, you'll need a Solana wallet.
 
 Connect with fellow vibe coders across our platforms:
 
-**Discord** (Primary Hub)
+**Discord** ([Join here](https://discord.gg/PHSzUF25Y6))
 - Join our Discord server for real-time discussions
 - Introduce yourself in #introductions
 - Read the community guidelines in #rules
 - Pick your roles in #roles
 
 **Social Media**
-- Follow us on Twitter/X for updates
+- Follow us on [Twitter/X](https://x.com/vibecoding_sol) for updates
 - Star our GitHub repositories
-- Join our Forum for in-depth discussions
+- Follow us on [Telegram](https://t.me/vibecoding_vibe)
 
 ### Step 3: Get Your Digital Pass
 
