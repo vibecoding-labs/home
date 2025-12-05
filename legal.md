@@ -191,15 +191,6 @@ Any disputes arising from these disclaimers or use of Vibe Coding shall be resol
 
 You agree to resolve disputes individually and waive any right to participate in class action lawsuits or class-wide arbitration.
 
-## Contact Information
-
-For legal inquiries, please contact:
-
-**Email:** legal@vibecoding.com (coming soon)  
-**Address:** [TO BE UPDATED]
-
-Please allow up to 10 business days for responses to legal inquiries.
-
 ## Severability
 
 If any provision of these disclaimers is found to be unenforceable or invalid, that provision shall be limited or eliminated to the minimum extent necessary, and the remaining provisions shall remain in full force and effect.
